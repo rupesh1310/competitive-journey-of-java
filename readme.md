@@ -1,22 +1,22 @@
-[]pattern
+[ ]pattern
 
 
-[]matrix
+[ ]matrix
 
 
-[]uppercase lowecase,
+[ ]uppercase lowecase,
 
 
-[]string
+[ ]string
 
 
-[]pyramid pattern
+[ ]pyramid pattern
 
-[]maze
+[ ]maze
 
-[]knapsack
+[ ]knapsack
 
-[]
+[ ]
 
 
 
