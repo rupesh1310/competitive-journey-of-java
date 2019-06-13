@@ -1,7 +1,7 @@
 [ ]pattern
 
 
-[ ]matrix
+[x]matrix
 
 
 [ ]uppercase lowecase,
